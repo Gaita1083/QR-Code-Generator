@@ -2,4 +2,5 @@
 Free Online Qr-Code Generator
 
 
-<img width="1675" alt="qr code generator" src="https://user-images.githubusercontent.com/121208942/222297941-88e0bb32-4132-4f0e-b38b-502be1b131d0.png">
+
+<img width="1680" alt="qr" src="https://user-images.githubusercontent.com/121208942/224005001-17caad93-a835-49b5-90e2-cad2462f55fb.png">
